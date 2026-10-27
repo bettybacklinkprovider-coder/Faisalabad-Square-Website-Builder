@@ -1,0 +1,6 @@
+{
+  "name": "Faisalabad Square",
+  "description": "Official commercial and shopping center website for Faisalabad Square, located on Jhang Road, Opposite Ayub Research, Gulfishan Colony, Faisalabad, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
